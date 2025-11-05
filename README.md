@@ -33,15 +33,7 @@ Pastikan Python versi 3 sudah terpasang di perangkatmu. Simpan file program deng
 python rental_mobil.py
 
 ### Diagram Sederhana Alur Program
-[Mulai]
-   ↓
-[Tampilkan Menu]
-   ↓
-[Pilih Opsi] → [Jalankan Fungsi Sesuai Pilihan]
-   ↓
-[Kembali ke Menu Utama]
-   ↓
-[Keluar] → [Selesai]
+[Mulai] -> [Tampilkan Menu] -> [Pilih Opsi] -> [Jalankan Fungsi Sesuai Pilihan] -> [Kembali ke Menu Utama] -> [Keluar] -> [Selesai]
 
 ### Kesimpulan
 Sistem Manajemen Penyewaan Mobil ini merupakan contoh penerapan dasar logika pemrograman dalam pengelolaan data menggunakan Python. Meskipun sederhana, struktur kodenya dirancang modular dan mudah dikembangkan. Program ini dapat menjadi pijakan awal sebelum beralih ke sistem yang lebih kompleks dengan penyimpanan data permanen, autentikasi pengguna, serta antarmuka berbasis web atau GUI.
